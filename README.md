@@ -1,6 +1,8 @@
 # Rock-Paper-Scissors
 Rock-Paper-Scissors Game, playing either with Computer or with another player.
 
+### • make sure that you put the header file "MyLib.h" in the same project folder to be able to run the game.
+
 ## Preview of the game flow:-
 
 ![image](https://user-images.githubusercontent.com/16564006/218259322-8e978ad5-0da4-400e-b6bb-f6ed7caf64a5.png)
